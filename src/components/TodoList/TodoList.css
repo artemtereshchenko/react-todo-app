@@ -1,0 +1,13 @@
+.TodoList	{
+	display: flex;
+	flex-direction: column;
+}
+
+.TodoList .list-group {
+	margin-bottom: 0;
+	padding-left: 0;
+}
+
+.TodoList .list-group-item  {
+	padding: 5px 5px;
+}

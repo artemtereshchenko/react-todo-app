@@ -1,0 +1,24 @@
+.TodoAddItem {
+		margin-top: 10px;
+}
+
+.TodoAddItem input[type="text"] {
+	margin-right: 7px;
+}
+
+.TodoAddItem .js-hide {
+	display: none;
+	
+}
+
+.TodoAddItem .js-show {
+	opacity: 1;
+}
+
+.TodoAddItem .title-warning {
+	font-size: 18px;
+	transition: .5s ease-in opacity;
+	color: darkred;
+	text-align: center;	
+	padding: 10px;
+}

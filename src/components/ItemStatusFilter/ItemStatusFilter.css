@@ -1,0 +1,12 @@
+.ItemStatusFilter {
+
+}
+
+.ItemStatusFilter input {
+	flex-grow: 1;
+	margin-right: 5px;
+}
+
+.ItemStatusFilter .btn-group {
+	display: inline-flex;
+}
