@@ -1,5 +1,5 @@
 # react-todo-app
-Simple ReactJs todo-application.
+Simple ReactJS todo-application.
 
 Demo: https://artemtereshchenko.github.io/react-todo-app/
 
